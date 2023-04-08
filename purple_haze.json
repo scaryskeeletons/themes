@@ -1,0 +1,11 @@
+{
+    "--bg": "#150721",
+    "--button_bg": "#200B32",
+    "--button_fg": "#ffff",
+    "--border": "#39ff14",
+    "--border_hover": "#91ff7d",
+    "--footer_bg": "#200B32",
+    "--line": "#39ff14",
+    "--menu_bg": "#200B32",
+    "--color": "#FFFFFF"
+}

@@ -1,0 +1,11 @@
+{
+    "--bg": "#000000",
+    "--button_bg": "#000000",
+    "--button_fg": "#ffff",
+    "--border": "#ffa31a",
+    "--border_hover": "#ffe01a",
+    "--footer_bg": "#0E0E0E",
+    "--line": "#ffa31a",
+    "--menu_bg": "#0E0E0E",
+    "--color": "#FFFFFF"
+}
